@@ -12,4 +12,4 @@ For iServices, generate a new MacBookPro11,1 SMBIOS and replace the existing one
 Getting hackintosh to work on old devices such as this laptop is a pain in the ass, so I won't be updating it any time in the future
 
 # Screenshot
-![1]("Screen Shot 2023-03-10 at 11.00.26.png")
+![1](https://github.com/HighDelay/HP-450-Notebook-Hackintosh/blob/62abe2e6a303c6408dbda51cd7607a0ce60796ec/Screen%20Shot%202023-03-10%20at%2011.00.26.png)
