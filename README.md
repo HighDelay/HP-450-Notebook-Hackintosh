@@ -7,6 +7,6 @@ OpenCore 0.9.0
 
 Everything works fine except Wifi, you'll have to buy compatible wifi card
 
-For iServices, generate a new MacBookPro11,1 SMBIOS and replace the existing one in the config.plist **Do not use the one that I've set up in this EFI** 
+For iServices, generate a new MacBookPro11,1 SMBIOS and replace the existing one in the config.plist **(Do not use the one that I've set up in this EFI)** 
 
 Getting hackintosh to work on old devices such as this laptop is a pain in the ass, so I won't be updating it any time in the future
